@@ -1,5 +1,6 @@
 # ImageProcessing
-This task accepts input image, process it adn write the change into another image (output image).
+This task accepts input image, process it and write the change into another image (output image).
+The new image is processed such that it has mean value of surrounding pixel values.
 This is done in Serial and Parallel.
 
 # Processing task
